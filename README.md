@@ -24,6 +24,3 @@ Responsive-Landing-Page/
 │── script.js
 │── README.md
 ```
-
-## Author
-Leelavathi Gattu
